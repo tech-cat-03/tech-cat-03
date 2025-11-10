@@ -48,20 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=tech-cat-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-cat-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em"/>
-</p>
-
----
-
-<p align="start">
-  <img src="https://github-profile-trophy.vercel.app/?username=tech-cat-03&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 <p align="start">
   ✨ <i>“Code is like art — every line tells a story.”</i> ✨
 </p>
