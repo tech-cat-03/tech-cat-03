@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="start">
+<p align="center">
   <a href="https://www.linkedin.com/in/aspasija-cvetkoska/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
   </a>
