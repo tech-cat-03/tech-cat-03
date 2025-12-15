@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, I'm <a href="https://www.aspasija.com" target="_blank"> Aspasija</a> Tech Cat 03 👋</h1>
+<h1 align="center">✨ Hi there, I'm <a href="https://www.aspasija.com" target="_blank"> Aspasija</a> -Tech Cat 03 👋</h1>
 
 <p align="center">
   <b>Full Stack Web Developer</b> with 3 years of professional experience and 7 years of hobby development.<br/>
